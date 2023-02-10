@@ -32,7 +32,8 @@
     "watch": "parcel watch",
     "build": "parcel build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "push": "uxpin-merge push"
   },
   "eslintConfig": {
     "extends": [
